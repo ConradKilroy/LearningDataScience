@@ -1,0 +1,24 @@
+Python Notes
+----------------
+
+condition = False
+x = 1 if condition else 0
+print(x)
+
+##
+
+
+Class object
+
+class class_name:
+     def __init__(self):
+or   def__init__(self, fname, lname, pay):
+  
+ ####
+ 
+ print (objt_inst.___dict__)
+ 
+ class
+ setattr(class obj, key value)
+ gettattr(class, key)
+  
